@@ -1,0 +1,142 @@
+| Vehicle | Buy Price | Sell Price | Inventory | Attachments | Seats | Variants |
+| ------- | --------- | ---------- | --------- | ----------- | ----- | -------- |
+| Kavz685 RF | 88820 | 24000 | 1000 | 4 Wood Crates, 2 Barrel, Jerrycan | 9 | Beige,Red,Green |
+| F1 Pickup | 477000 | 142500 | 800 | 4 Barrels, 2 Wood Crates, Backpack , Rifle, Jerrycan | NaN | NaN |
+| VBL | 149660 | 42000 | 900 | Wood Crate, Barrel , Backpack , 2 Rifle , Jerrycan | 3 | NaN |
+| Ij 2715 RF | 89160 | 24000 | 600 | 2 Barrel, Packpack, 2 Rifle, Jerrycan | 6 | Green,Red,Blue |
+| BTR 80 | 503320 | 147000 | 1000 | 4 Wood Crates, 2 Barrels , Backpack, Rifle, Seachest , Jerrycan | 4 | Camo 2 |
+| PAZ 672 | 168320 | 48000 | 1000 | 4 Wood Crates, 5 Barrels , Seachest , Jerry | 6 | NaN |
+| GAZ 66 | 187640 | 54000 | 1000 | 3 Wood Crates, 2 Barrel , Backpack , 2 Rifles , Jerrycan | 6 | NaN |
+| GAZ Kuzov | 189520 | 54000 | 1000 | 3 Wood Crates, 2 Barrel , Backpack , 2 Rifles , Jerrycan | 6 | NaN |
+| UAZ 3962 | 169660 | 48000 | 800 | 2 Wood Crates, 4 Barrel, Seachest, Jerrycan | 4 | Green,MCHS,VAI |
+| Willys | 82160 | 22500 | 600 | 2 Wood Crates , 2 Rifle , Jerrycan | 3 | NaN |
+| Zil 131 Tent | 1010320 | 300000 | 1000 | 4 Wood Crates, 4 Barrel, Backpack, Jerrycan | 12 | NaN |
+| Zil 131 | 1010320 | 300000 | 1000 | 4 Barrel, Backpack, Seachest, 2 Rifle, Pistol, Pants, Headgear,Gloves,Shoes,Jacket,Jerrycan | 12 | Tent |
+| Gaz 3110 | 269660 | 78000 | 600 | 2 Wood Crates , 2 Rifle , Backpack, Jerrycan | 4 | Taxi,White,Black |
+| Gaz M20 | 369660 | 108000 | 600 | 2 Wood Crates, Backpack, 2 Rifle, Jerrycan | 4 | White,Green,Black,Red,Blue |
+| Ij 2125 Kombi | 350130 | 102000 | 400 | 2 Wood Crates, Backpack, 2 Rifle, Jerrycan | 4 | Beige, Green, Orange, Red |
+| UAZ 27722 | 569660 | 168000 | 800 | 4 Wood Crates, Backpack, 2 Rifle, Jerrycan | 4 | MCHS |
+| Marcedes G4 | 561660 | 165000 | 800 | 4 Wood Crates, Jerrycan | 4 | NaN |
+| UAZ 31519 | 259660 | 75000 | 800 | 4 Wood Crates, Backpack, 2 Rifle, Radio, Jerrycan | 5 | Police |
+| GAZ 33081 | 989820 | 294000 | 1000 | 4 Wood Crates, 9 Barrels, Backpack, Jerrycan | 4 | NaN |
+| Niva 2329 | 169020 | 48000 | 600 | Wood Crate, 2 Barrel, Seachest, Jerrycan | 2 | Camo |
+| UAZ 3163 | 367660 | 108000 | 800 | Wood Crates, Seachest , Jerrycan | 4 | Black, Red, Blue, Green, White, Gamekeeper |
+| AEC Matador | 488320 | 144000 | 1000 | 3 Wood Crates, 7 Barrel, Seachest, Radio, 2 Rifles, Log, Planks, Metal, Jerrycan | 6 | NaN |
+| ZiS5 Benzovoz | 388320 | 114000 | 1000 | Backpack, 2 Rifles, Jerrycan | 2 | NaN |
+| M3A1 Scout Car | 129320 | 36000 | 1000 | 2 Wood Crates, 2 Barrel , Rifle , Seachest , Wood axe , Pickaxe, Jerrycan | 4 | NaN |
+| ZAZ 968M | 654760 | 195000 | 500 | 2 Wood Crates, Rifle , Backpack , Jerrycan | 4 | Red |
+| UAZ 469 | 270020 | 78000 | 800 | 4 Wood Crates, Backpack, 2 Rifle, Radio, Jerrycan | 5 | NaN |
+| GAZ 51 | 969020 | 288000 | 1000 | 4 Wood Crates, 4 Barrel, Power Generator | 4 | NaN |
+| URAL 375 | 1010320 | 300000 | 1000 | 6 Wood Crates, 10 Barrel , Jerrycan | 12 | NaN |
+| Ram Rebel | 659160 | 325000 | 500 | 2 Barrel, Backpack, Jerrycan | 4 | Red, Grey, Lime, White, Yellow, Orange |
+| Dodge Challenger | 508160 | 250000 | 500 | 2 Pistol, 2 Backpack , Jerrycan, Seachest | 2 | Red, White, Black, Yellow, Lime, Orange |
+| Humvee | 83240 | 37500 | 300 | NO ATTACHMENTS | 4 | NaN |
+| M3 Truck | 71080 | 30000 | 600 | 4 Wood Crates, 4 Barrel, Log, Plank, Metal | 2 | Black, Blue, Green, Grey, Lime, Orange, Red, White |
+| Olga | 41305 | 15997 | 400 | NO ATTACHMENTS  | 4 | Black, Black(Rust),White, White(Rust),Wine, Wine(Rust) |
+| Sharka | 53510 | 22500 | 300 | NO ATTACHEMNTS | 4 | Grey, Grey(Rust),Red, Red(Rust),Yellow, Yellow(Rust) |
+| Gunter | 44140 | 17500 | 300 | NO ATTACHEMNTS | 4 | Banditkitty, Black, Black(Rust),Blue, Blue(Rust),Red, Red(Rust) |
+| LTL 9000 | 1509120 | 750000 | 200 | 6 Barrel 5 wooden crate 20 sheet metal 50 log 100 planks jerrycan | 2 | NaN |
+| Golf Cart | 125610 | 62500 | 60 | 2 Barrels | 2 | NaN |
+| TukTuk | 179210 | 87500 | 0 | 2 Barrels, Backpack, Jerrycan | 3 | Blue, Green |
+| Ada | 36240 | 14000 | 300 | NO ATTACHMENTS | 4 | Blue, Blue(Rust),Green, Green(Rust),White, White(Rust) |
+| Helicopter Expansion | Buy Price | Sell Price | Inventory | Attachments | Seats | Variants |
+| MH6 | 804000 | 400000 | 400 | Jerrycan, Sat Radio, Wrench, Camonet | 4 | Digital,Blueline,Elliptical,Furious,GrayWatcher,Green,Jean,Resistance,Shadow,Sheriff,Speedy,Sunset,Vrana,Wasp,Wave,Mango |
+| UH1H | 1309000 | 650000 | 500 | Jerrycan, Sat Radio, Wrench | 4 | Takistan |
+| MI24 | 2015250 | 1000000 | 500 | Jerrycan, Sat Radio, Wrench, Camonet | 4 | Chernarus, ION, Takistan, UN, ACR |
+| AH64D | 1504250 | 750000 | 300 | Jerrycan, Sat Radio, Wrench, Camonet | 2 | USMC,BAF |
+| UH60M | 2514000 | 1250000 | 600 | Jerrycan, Sat Radio, Wrench, Camonet | 10 | Green, MEV |
+| CH-47F | 3004250 | 1500000 | 1000 | Jerrycan, Sat Radio, Wrench, Camonet | 14 | USMC,BAF |
+| MI8 | 1760500 | 875000 | 600 | Jerrycan, Sat Radio, Wrench, Camonet | 8 | ACR, Chedaki, Chernarus, Civilian, RAF, Takistan, United Nations |
+| MI8 Attack | 1760250 | 875000 | 600 | Jerrycan, Sat Radio, Wrench, Camonet | 8 | ACR, Chedaki, Chernarus, Civilian, RAF, Takistan, United Nations |
+| KA52 | 761750 | 375000 | 300 | Jerrycan, Sat Radio, Wrench, Camonet | 2 | Black, Woodland |
+| UH1Y | 1506750 | 750000 | 500 | Jerrycan, Sat Radio, Wrench, Camonet | 9 | USMC,SAR,ACR |
+| AW159 | 859250 | 425000 | 400 | Jerrycan, Sat Radio, Wrench, Camonet | 6 | BAF, UN, Marine |
+| AH1Z | 1006500 | 500000 | 300 | Jerrycan, Sat Radio, Wrench, Camonet | 2 | NaN |
+| KA60 | 1010500 | 500000 | 500 | Jerrycan, Sat Radio, Wrench, Camonet | 8 | NaN |
+| Merlin HC3 | 5013000 | 2500000 | 800 | Jerrycan, Sat Radio, Wrench, Camonet | 18 | NaN |
+| MI171 | 1259250 | 625000 | 600 | Jerrycan, Sat Radio, Wrench, Camonet | 6 | NaN |
+| Helicopter Red Falcon | Buy Price | Sell Price | Inventory | Attachments | Seats | Variants |
+| BO-105M | 1257500 | 625000 | 600 | 1 Flight Crate | 4 | Black Camo |
+| Little bird | 807500 | 400000 | 300 | 1 Flight Crate | 4 | Camo,Desert |
+| KA-26 | 1007500 | 500000 | 800 | 1 Flight Crate | 8 | NaN |
+| Bell 429 | 1607500 | 800000 | 600 | 1 Flight Crate | 6 | Police,Medic,ZS,Uganda |
+| MI-2 | 857500 | 425000 | 600 | 1 Flight Crate | 5 | Military, Hornet |
+| Apache | 1507500 | 750000 | 300 | 1 Flight Crate | 2 | Winter, Desert |
+| R22 | 607500 | 300000 | 0 | 1 Flight Crate | 2 | Black, Red |
+| Blackhawk | 2507500 | 1250000 | 800 | 2 Flight Crates | 8 | Cargo,Woodland,Black,Budhawk |
+| CH-53e | 3007500 | 1500000 | 1000 | 2 Flight Crates | 28 | NaN |
+| CH-47 | 2007500 | 1000000 | 1000 | 8 Flight Crates | 12 | NaN |
+| EC-135 | 1507500 | 750000 | 800 | 1 Flight Crate | 6 | Black Camo |
+| UH1H | 1307500 | 650000 | 600 | 1 Flight Crate | 7 | Combat |
+| AS350 | 1507500 | 750000 | 800 | 1 Flight Crate | 4 | NaN |
+| S76 | 2107500 | 1050000 | 600 | 1 Flight Crate | 6 | Woodland Camo |
+| Boats Expansion | Buy Price | Sell Price | Inventory | Attachments | Seats | Variants |
+| PBX | 30240 | 10500 | 150 | NO ATTACHMENTS | 1 | Black, Orange, Camo |
+| RHIB | 65240 | 22750 | 500 | NO ATTACHMENTS | 5 | NaN |
+| Boats Red Falcon | Buy Price | Sell Price | Inventory | Attachments | Seats | Variants |
+| The Carp Boat | 50240 | 25000 | 300 | NO ATTACHMENTS | 4 | Rusty |
+| The Drag Boat | 90240 | 45000 | 400 | NO ATTACHMENTS | 4 | Black, Red |
+| Seadoo | 20240 | 10000 | 150 | NO ATTACHMENTS | 1 | Camo,Green,Orange,Black |
+| Zodiac | 30240 | 15000 | 100 | NO ATTACHMENTS | NaN | Black, Orange |
+| The Whaler | 75240 | 37500 | 300 | NO ATTACHMENTS | 2 | NaN |
+| Fortune Cars | Buy Price | Sell Price | Inventory | Attachments | Seats | Variants |
+| Audi RS6 | 327970 | 97500 | 400 | Rifle, Jerry can, Backpack | 4 | Green, Black, Chrome. Flecktarn, Red, White, Winter |
+| BMW | 377970 | 112500 | 400 | Rifle, Jerry can, Backpack | 4 | Blue, Black, Green, Light Green, Red, White |
+| Buggy | 77900 | 22500 | 1000 | 2 Barrel, Jerrycan, Rifle, Backpack | 2 | Tan, Blue, Red, Yellow |
+| Camero | 402969 | 120000 | 1000 | Rifle, Jerry can, Backpack | 4 | White, Black, Camo, Pink, Red, Yellow |
+| Corvette | 477969 | 356250 | 400 | Rifle, Jerry can, Backpack | 2 | Black, Kamo, Rust, White, Yellow |
+| Interceptor | 227968 | 67500 | 1000 | 2 barrel jerrycan rifle backpack 4 gernades | 2 | NaN |
+| Marcedes W140 | 102970 | 30000 | 1000 | 2 Wooden Crate, Rifle, Backpack, Jerrycan | 4 | Red |
+| Moskvich 2140 | 102971 | 30000 | 500 | Jerrycan, 1 Barrel, 1 Wooden Crate, Rifle, Pistol, Backpack | 4 | Orange, Blue, Green (Rust), Red, Yellow, Green |
+| Mustang | 277969 | 82500 | 300 | Wooden Crate, Rifle, Backpack, Jerrycan | 2 | Black, Red, Black (Rust) |
+| Opel Astra | 129971 | 93750 | 400 | Backpack, 1 Rifles, Jerrycan | 4 | White, Black, Camo, Chrome |
+| Pontiac | 252969 | 187500 | 400 | Jerrycan | 2 | Balck, Blue, Black (Rust) |
+| Suv | 1852971 | 1387500 | 1000 | Jerrycan, Backpack, Rifle, 6 Barrel | 4 | Black, Blue, Camo, Red, White, Winter |
+| Vaz 2108 | 252970 | 75000 | 700 | Wooden Crate, Rifle, Backpack, Jerrycan | 4 | NaN |
+| Vaz 2109 | 257970 | 76500 | 500 | 2 Wooden Crate, Rifle, Backpack, Jerrycan | 4 | NaN |
+| Dozor B | 727969 | 217500 | 1000 | Jerrycan, 2 Barrels, 3 Wooden Crates, Rifle, Backpack | 8 | OD |
+| Kraz Fiona | 1002794 | 300000 | 1000 | Jerrycan, 5 Barrels, 6 Wooden Crates, Rifle, Backpack | 10 | OD |
+| Novoator | 777974 | 232500 | 800 | Jerrycan, 4 Barrels, 6 Wooden Crates, 2 Rifles, Backpack, Pants, Boots, Shirt, Vest, Headgear, Glove, Canteen, Gas Mask Filter, Cassette | 5 | OD |
+| GAZ-59037 | 1502975 | 450000 | 1000 | 3 Barrels, 6 Wooden Crates, Backpack, Jerrycan, Rifle | 7 | Camo 1, Black, Green, White Camo |
+| Cougar | 802972 | 240000 | 1000 | Jerrycan, 2 Barrels, Wooden Crate, Seachest, Rifle, Backpack | 8 | NaN |
+| Fennek | 627969 | 187500 | 1000 | Jerrycan, 3 Barrels, Backpack, First Aid Pouch, 2 Rifles | 3 | Black, Biohazard,Camo Green, Rust, Winter |
+| Hammer H1 | 877972 | 262500 | 550 | Jerrycan, Backpack, Rifle, First Aid Pouch, Hummer Bag, Wooden Crate, 2 Barrels | 4 | Camo, Black, Winter |
+| HEMTT | 1752975 | 525000 | 1000 | 6 Barrels, 6 Wooden Crates, Jerrycan, Backpack, Rifle, 50 Logs, 100 Planks, 40 Sheet Metal, Cassette | 8 | Camo, Black, Green, Rust, White |
+| Kamaz Typhoon | 1452972 | 435000 | 1000 | 6 Barrels, 6 Wooden Crates, Rifle, Backpack, Jerrycan, 50 Logs, 100 Planks, 40 Sheet Metal | 10 | Camo, Black, Green, Rust, White |
+| Oshkosh | 777972 | 232500 | 550 | Jerrycan, Rifle, 4 Barrels, Camonet | 4 | Tan, Black, Pixel |
+| Eger  | 652971 | 195000 | 1000 | Backpack, Rifle, Jerrycan, 6 Barrels, Casette  | 5 | Camo, Pixel |
+| Yar 87 | 552971 | 165000 | 1000 | 9 Barrels, 4 Wooden Crates, Rifle, Backpack, Jerrycan, Camonet, Casette | 8 | Red, Black, Blue, Camo, Camo 2, Rust, White |
+| Gaz 66 Bort | 604169 | 180000 | 800 | 6 barrels,rifle, backpack,jerrycan, casette | 2 | Black, Brown |
+| Gaz 66 Kung | 679170 | 202500 | 1000 | Cooking Station, 6 Barrels, Rifle, Backpack, Jerrycan, Casette | 4 | Black, Brown |
+| Gaz Tigr | 429170 | 127500 | 600 | Jerycan, 2 Wooden Crate, 3 Barrels, Backpack, Rifle, Camonet, 2 Cassettes | 4 | Flecktarn, Green,Grey,Black,Pixel |
+| Kamaz 4310 Kung | 729170 | 217500 | 1000 | 2 Barrels, 4 Wooden Crates, Backpack, 2 Rifles, 3 Mags, Head, Knife, Pistol, Jerrycan, Cassette | 6 | Flora, Pixel, Black, Old, Winter |
+| Kamaz 4310 Flatbed | 704169 | 210000 | 1000 | 6 Barrels, 3 Wooden Crate, Backpack, 2 Rifles, Jerrycan, Cassette | 10 | Flora, Pixel, Black, Old, Winter |
+| Kraz 6322 | 129171 | 37500 | 1000 | Backpack, Rifle, 12 Barrels, Jerrycan, 50 Logs, 100 Planks, 40 Sheet Metal, Cassette | 8 | Rust,Black,Camo |
+| M35A2 | 754172 | 225000 | 1000 | Bakcpack, Rifle, 12 Barrels, 6 Wooden Crate, Jerrycan, 50 Logs, 100 Planks, 40 Sheet Metal, Cassette | 2 | Black,Rust, Camo,Grey |
+| Maz 509 | 579171 | 172500 | 1000 | Backpack, Rifle, Jerrycan, 6 Barrels, 50 Log, 100 Planks, 40 Sheet Metal, Cassette | 6 | NaN |
+| Uaz 2315 | 279168 | 82500 | 600 | 5 Barrels, Jerrycan, Backpack, Rifle, 2 Wooden Crates, Casette | 2 | NaN |
+| Ural 4320 Flatbed | 704172 | 210000 | 900 | Backpack, Rifle, Jerrycan, 6 Barrels, Casette  | 8 | NaN |
+| Ural 4320 Kung | 729175 | 217500 | 1000 | Cooking Station, Backpack, Rifle, 6 Barrels, Casette | 5 | Rust,Blue,Camo |
+| Zil 130 Flatbed | 659170 | 195000 | 800 | Backpack, Rifle, Jerrycan, Seachest, 6 Barrel | 2 | Rust |
+| Zil 130 Kung | 679172 | 202500 | 1000 | 7 Barrels, Seachest, Rifel, Backpack, Jerrycan, Casette , Cooking Station | 4 | Rust |
+| Zil 130 Refill | 704168 | 210000 | 1000 | Jerrycan, Casette | 2 | NaN |
+| Zil 130 Repair | 704169 | 210000 | 700 | Jerrycan, Casette | 2 | NaN |
+| Gaz 71 | 1255477 | 375000 | 1000 | Jerrycan, Backpack, Rifle, 6 Wooden Crates, 6 Barrels | 10 | Rust, Winter, Black |
+| BMW X5 | 1002970 | 300000 | 700 | Cassette, Jerrycan, Backpack, Rifle, First Aid Pouch, 2 Barrels | 4 | Black, White |
+| Conquer | 452970 | 135000 | 700 | Cassette, 50 Logs, 100 Planks, 40 Sheet Metal, 2 Barrels, 2 Wooden Crates, Rifle, Jerrycan | 4 | Black, Blue, Gray, Green, Kamo1, Kamo2, Yellow |
+| Ford Raptor | 752971 | 225000 | 1000 | 2 Barrels, Jerrycan, Backpack, Rifle, Seachest, Casette | 4 | Black, Blue, Green, Gray, Red, Winter |
+| Gelenvagen | 3502972 | 1050000 | 1000 | Jerrycan, Backpack, Rifle, 2 Barrels, Cassette | 4 | White, Carbon, Flecktarn, Green, White Camo 1, White Camo 2 |
+| Land Crusier | 502973 | 150000 | 1000 | Camonet, Cassette, Jerrycan, Backpack, 2 Rifles, 6 Wooden Crates, 2 Barrels | 4 | Yellow, Blue, Camo, Camo 2, Red, Skul, White, Gvinlord |
+| Nissan Warrior | 532971 | 159000 | 550 | Jerrycan, Backpack, Rifle, 6 Barrels, Cassette | 4 | White, Black, Blue, Camo, White Camo |
+| Niva Pickup | 302969 | 90000 | 600 | Jerrycan, Backpack, Rifle, 4 Wooden Crates, 4 Barrels, Camonet, Cassette | 4 | Gray, Blue, Camo, Camo 2, Red, Skul |
+| Offroad Range Rover | 1202972 | 360000 | 700 | Jerrycan, Backpack, Rifle, 5 Wooden Crates, Brushguard | 4 | White |
+| Range Rover | 1002971 | 300000 | 450 | Jerrycan, Backpack, Rifle, Seachest, Casette | 4 | Camo, Black |
+| Rover | 452968 | 135000 | 600 | Backpack, Rifle, Jerrycan, Seachest, Wooden Crate, Casette | 4 | Tan, Camo 2 |
+| Scout | 852969 | 255000 | 1000 | Jerrycan, Backpack, Rifle, 6 Wooden Crate, Seachest, 4 Barrels, Camonet, Casette | 4 | White/Brown |
+| Toyota Helix | 652969 | 195000 | 700 | Camonet, Casette, Jerrycan, Backpack, Rifle, 4 Wooden Crates, 4 Barrels | 2 | OD |
+| Uaz Hunter | 177972 | 52500 | 800 | Jerrycan, 2 Barrels, 6 Wooden Crates, Seachest, 2 Rifles, Backpack, Casette | 4 | Green, Blue |
+| Uaz 469 | 177971 | 52500 | 450 | Jerrycan, Rifle, Backpack, Casette | 4 | OD |
+| Camper | 352969 | 105000 | 1000 | Jerrycan. Backpack, Rifle, First Aid Pouch, Casette | 5 | Blue, Red, Green |
+| Motorhome | 2252968 | 675000 | 400 | Jerrycan, Backpack, Rifle, 4 Barrels, 10 Wooden Crates, 50 Logs, 100 Planks, 40 Sheet Metal | 10 | NaN |
+| PAZ | 652969 | 195000 | 1000 | Jerrycan, Backpack, Rifle, 2 Barrels, Seachest, Casette | 10 | White, Beige, Blue, Green, Red, Prison |
+| Uaz 3909 | 277971 | 82500 | 500 | Jerrycan, Backpack, Rifle, 6 Barrels, Seachest, Casette | 8 | OD, Ambulance, Beige, Blue, Khaki 1, Khaki 2, Police |
